@@ -1,0 +1,11 @@
+## Interface: 120105, 120100, 120007
+## Title: Tentoesframes
+## Notes: Custom target borders for Blizzard raid and party frames, with optional flash, patterns and profiles.
+## Author: Tentoesframes
+## Version: 1.1.1
+## SavedVariables: TentoesframesDB
+## Category: Raid Frames
+
+Core.lua
+Renderer.lua
+Options.lua
